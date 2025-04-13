@@ -1,5 +1,5 @@
 {
-    "hwids": ["", "hwid456"],
+    "hwids": ["", ""],
     "ips": [""],
     "userIds": [],
     "usernames": [""]
