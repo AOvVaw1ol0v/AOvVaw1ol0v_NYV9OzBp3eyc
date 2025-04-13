@@ -1,0 +1,6 @@
+{
+    "hwids": ["hwid123", "hwid456"],
+    "ips": ["1.2.3.4"],
+    "userIds": [12345678],
+    "usernames": ["BadUser"]
+}
